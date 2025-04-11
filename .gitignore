@@ -1,0 +1,11 @@
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+bin/
+obj/
+*.tmp
+*.bak
+*.swp
